@@ -1,3 +1,8 @@
+#__  __    _    ____  _   _ ____
+|  \/  |  / \  / ___|| | | |  _ \
+| |\/| | / _ \ \___ \| | | | | | |
+| |  | |/ ___ \ ___) | |_| | |_| |
+|_|  |_/_/   \_\____/ \___/|____/
 # Encrypt by DAVIL OHID 404
 # Facebook Group : FB-CRACK_Termux All Free Command
 # Github : https://github.com/DAVIL-OHID-404
